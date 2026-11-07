@@ -14,7 +14,7 @@ Estudo de caso de um projeto de autoagendamento e confirmação automática de c
 
 O atendimento por WhatsApp do hospital era manual. A fila de conversas aguardando resposta ficava, em média, com **6 páginas**, e chegava a **12 páginas (cerca de 300 pacientes, 25 por página)** nos picos, no meio da semana. Os pacientes esperavam muito para marcar consultas e exames, e havia faltas por falta de confirmação prévia.
 
-O projeto de autoagendamento já existia, mas estava parado. As regras de negócio eram complexas: exames liberados por profissional, número de agendamentos por médico, vagas por convênio, valores, e agendas no sistema com horários diferentes dos informados ao paciente.
+O projeto de autoagendamento ainda não estava em funcionamento. As regras de negócio eram complexas: exames liberados por profissional, número de agendamentos por médico, vagas por convênio, valores, e agendas no sistema com horários diferentes dos informados ao paciente.
 
 ## 2. O que eu fiz
 
